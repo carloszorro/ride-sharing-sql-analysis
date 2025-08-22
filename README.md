@@ -50,7 +50,9 @@ The project used SQL queries and CSV exports:
 - Identified **most popular taxi companies** in Chicago (Nov 2017).  
 - Determined top 10 neighborhoods for ride completions.  
 - Found clear patterns in **market concentration** (few dominant companies).  
-- Hypothesis test revealed whether **rainy weather significantly affects Loop → O’Hare trip duration on Saturdays**.  
+- Hypothesis test revealed whether **rainy weather significantly affects Loop → O’Hare trip duration on Saturdays**.
+
+Note: The first part of the project (SQL queries execution) was completed on the TripleTen platform. This repository includes the Python analysis and hypothesis testing stages.
 
 ---
 
